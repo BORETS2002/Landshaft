@@ -1,0 +1,45 @@
+.Landy {
+
+    position: relative;
+    text-align: center;
+  }
+  
+  .map-container {
+    position: relative;
+    display: inline-block;
+ 
+  }
+  
+  .landshaft {
+    width: 100%;
+    max-width: 1222px; /* Rasmning kengligi */
+  }
+  
+  .map-point {
+    position: absolute;
+    background-color: rgb(184, 18, 18); /* Qizil fon */
+    color: white;
+     
+    padding: 2px 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .info-box {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
+  .daraxt{
+    width: 100%;
+  }
+
+.malumotlar .malumotlarBox{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+ 

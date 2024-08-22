@@ -1,0 +1,29 @@
+.MainBg{
+ 
+background-image: url('../assets/imgs/daraxtBG.jpg');
+background-repeat: no-repeat;
+  background-size:  cover;
+   
+  padding-top: 12%;  
+  padding-bottom : 30%;
+}
+
+.textCenter{
+  margin-top: 290px;
+  margin-right: 45px;
+text-align: center;
+}
+.textLink{
+  display: block;
+  width: 110px;
+  height: 40px;
+  
+  margin: auto  ;  
+  margin-right: 49%;
+  padding: 10px 20px;
+  background-color: rgba(45, 207, 80, 0.89);
+  border-radius: 9%;
+  text-align: center;
+ 
+  text-decoration: none;
+}

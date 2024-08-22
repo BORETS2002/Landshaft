@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tashkent"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [69.245, 41.327],
+              [69.246, 41.328],
+              [69.247, 41.327],
+              [69.245, 41.327]
+            ]
+          ]
+        }
+      }
+   
+    ]
+  }
+  
